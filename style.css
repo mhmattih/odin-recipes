@@ -32,3 +32,14 @@
     width: 600px;
 }
 
+figcaption {
+    font-size: 16px;
+}
+
+.recipe-page .ingredients {
+    background-color: lightsalmon;
+}
+
+.recipe-page .step-by-step-instructions {
+    background-color: lightblue;    
+}
